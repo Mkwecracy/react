@@ -1,0 +1,82 @@
+.app {
+    background:linear-gradient(to right bottom, brown, brown);
+    
+  }
+
+  .container{
+    background-color: grey;
+    padding: 30px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    box-shadow: 3px 6px 40px black;
+    
+  }
+
+  h1 {
+    font-size: 36px;
+    text-align: center;
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    
+    
+  }
+  
+  button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: maroon;
+    color: white;
+    cursor: pointer;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    
+    
+  }
+  
+  button:hover {
+    background-color: mediumaquamarine;
+  }
+
+
+    
+  ul {
+    list-style: none;
+    
+  }
+  
+  
+  input[type="checkbox"] {
+    margin-right: 10px;
+  }
+
+  .btn{
+    
+    margin-top: 10px;
+
+    
+  }
+  
+  .completed {
+    
+   
+   margin-bottom: 10px;
+  }
+  .new{
+    
+   
+   margin-bottom: 10px;
+  }
+
+  .tbox{
+   display: block;
+   align-items: right;
+   align-content: right;
+    
+  }
+  
